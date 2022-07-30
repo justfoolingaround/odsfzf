@@ -1,0 +1,5 @@
+anitopy==2.1.0
+click==8.0.4
+requests==2.28.0
+fzf.py @ https://github.com/justfoolingaround/fzf.py/archive/refs/heads/master.zip
+yarl==1.7.2
